@@ -1,0 +1,29 @@
+img {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+}
+#emile {
+    color: red;
+}
+#jon {
+    color: blue;
+}
+#tim {
+    color: green;
+}
+.youtube {
+    color: red;
+}
+.facebook {
+    color: blue;
+}
+.twitter {
+    color: lightblue;
+}
+.twitch {
+    color: purple;
+}
+li {
+    padding: 5px 0
+}
